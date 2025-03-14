@@ -5,12 +5,12 @@ Pemrograman Lanjut (Advanced Programming) 2024/2025 Genap
 
 ## JMeter Report and Test Results
 ### Test Plan 1 (all-student request)
-**Before Optimization: **<br/>
+**Before Optimization: <br/>**
 <img width="1070" alt="testresults1" src="https://github.com/user-attachments/assets/43a524fd-f0a8-4ceb-90c2-9b897ff3ec64" />
 
 <img width="1070" alt="test_plan_1" src="https://github.com/user-attachments/assets/22eceec8-0460-4544-8ac5-e0bbbb65cd4f" />
 
-**After Optimization: **<br/>
+**After Optimization: <br/>**
 <img width="1070" alt="Screenshot 2025-03-14 at 19 52 48" src="https://github.com/user-attachments/assets/4fcfe7fd-b51d-41d3-8fbd-bfb24470f08e" />
 
 ### Test Plan 2 (all-student-name request)
